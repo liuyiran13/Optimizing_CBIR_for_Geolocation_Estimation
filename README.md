@@ -16,14 +16,16 @@ The aim of this research is to propose an approach to investigate the possibilit
 
 ### Geolocation Estimation Implementation
 
-1. Clone the code.
+1. Clone the project.
 
   ```Shell
   git clone https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation.git
   ```
   
-2. Build the code on Eclipse (Recommend Ubuntu Enviroment).
+2. Build the project on Eclipse (Recommend Ubuntu Enviroment).
 
 	Import Geolocation Estimation pipeline in Eclipse from workspace directory, and import all the related .jar files from Project_jars directory. 
 
 <img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/project_structure.png" width="160"/> <img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/libraries_import.png" width="425"/> 
+
+3. Run make_data_ForBenchMarkTest.java locally and generate all the related hashmap files.
