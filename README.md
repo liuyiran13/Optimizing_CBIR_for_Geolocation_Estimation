@@ -32,7 +32,7 @@ The aim of this research is to propose an approach to investigate the possibilit
 
 ### Common_Concept_Removal
 
-<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/car_0.2.png" width="220"/>
+<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/car_0.2.png" width="425"/>
 
 
 ### Automatically_Concepts_Selection
