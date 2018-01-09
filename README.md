@@ -1,2 +1,3 @@
 # Optimizing_CBIR_for_Geolocation_Estimation
-Master thesis for optimizing the CBIR for geolocation estimation
+
+The prediction of geo-graphical location at which an image is taken is drawing increasing attention in recent research. However, one major limitation of most current research is that it focuses mostly on improving the geolocation prediction performance while ignoring the problem of index size, which is helpful in saving storage space. Traditional image retrieval index reduction approach can be achieved at the cost of losing retrieval performance, e.g., by using low-level features. This project investigates how to optimize the content-based image retrieval for geolocation estimation, by reducing the large-scale image retrieval index size without losing geo-prediction performance. More specifically, it focuses on the challenge of trade-off between index size and geo-prediction performance. 
