@@ -25,3 +25,11 @@ The aim of this research is to propose an approach to investigate the possibilit
 2. Build the code on Eclipse (Recommend Ubuntu Enviroment).
 
 	Import Geolocation Estimation pipeline in Eclipse from workspace directory, and import all the related .jar files from Project_jars directory. 
+
+<p align="left">
+<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/project_structure.png" alt="Project Structure" width="770px">
+</p>
+
+<p align="left">
+<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/libraries_import.png" alt="Project Libraries" width="770px">
+</p>
