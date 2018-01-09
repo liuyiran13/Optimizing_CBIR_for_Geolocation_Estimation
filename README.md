@@ -26,12 +26,4 @@ The aim of this research is to propose an approach to investigate the possibilit
 
 	Import Geolocation Estimation pipeline in Eclipse from workspace directory, and import all the related .jar files from Project_jars directory. 
 
-<p align="left">
-<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/project_structure.png" alt="Project Structure" width="330px">
-</p>
-
-<p align="left">
-<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/libraries_import.png" alt="Project Libraries" width="550px">
-</p>
-
-<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/project_structure.png" width="260"/> <img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/libraries_import.png" width="425"/> 
+<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/project_structure.png" width="160"/> <img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/libraries_import.png" width="425"/> 
