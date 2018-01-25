@@ -30,8 +30,23 @@ The aim of this research is to propose an approach to investigate the possibilit
 
 3. Run make_data_ForBenchMarkTest.java locally and generate all the related hashmap files.
 
+4. Upload the locally generated files to remote server based on the command in TMM_GVM_commands.txt.
+
 ### Common_Concept_Removal
 
+1. Install the object detection framework based on [mxnet-ssd](https://github.com/zhreshold/mxnet-ssd).
 
+2. Replace the related files based on SSD folder.
 
-### Automatically_Concepts_Selection
+3. cd to SSD folder and run 
+  ```Shell
+python Obj_detection.py --gpu 0
+  ```
+4. Record the detected coordinates of objects and transfer the detected areas based on code in Common_Concept_Removal folder.
+
+5. Generate the objects removed images into tar files by running 
+  ```Shell
+python tar_files.py
+  ```
+6. Utilize the objects removed images in Geolocation_Estimation_Implementation
+<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/car_0.2.png" width="425"/>
