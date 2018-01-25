@@ -11,7 +11,6 @@ The aim of this research is to propose an approach to investigate the possibilit
 
 1. [Geolocation Estimation Implementation](#Geolocation_Estimation_Implementation)
 2. [Common Concepts Removal](#Common_Concept_Removal)
-3. [Automatically Concepts Selection](#Automatically_Concepts_Selection)
 
 
 ### Geolocation_Estimation_Implementation
