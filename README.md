@@ -49,5 +49,5 @@ python tar_files.py
   ```
 6. Utilize the objects removed images in Geolocation_Estimation_Implementation
 <img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/car_0.2.png" width="425"/>
-<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/803_query_effects.png" width="425"/>
+<img src="https://github.com/liuyiran13/Optimizing_CBIR_for_Geolocation_Estimation/blob/develope/Ref_Image/803_query_effects.png" width="600"/>
 
